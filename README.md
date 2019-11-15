@@ -1,2 +1,6 @@
 # hello-world
-test repository
+Hi,
+This is just a default test file.
+
+Regards,
+Nina
